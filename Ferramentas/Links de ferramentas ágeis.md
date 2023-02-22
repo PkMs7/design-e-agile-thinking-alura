@@ -7,3 +7,11 @@
 ## Fluxo de tarefas
 
 ## Feedback
+
+## Identificar complexidade do negócio
+
+- Cynefin: https://www.alura.com.br/artigos/como-usar-cynefin-na-adocao-business-agility?utm_source=gnarus&utm_medium=timeline
+
+## Loop para agilizar processos (Learning 3.0)
+
+- Entender, Problematizar, Pesquisar, Conectar, Praticar, Compartilhar (repetir)

@@ -26,4 +26,12 @@
 
 - Sprint: Definição das tarefas a serem feitas nesse período - Tempo de até 1 mês.
 
-- Review Meeting: 
+- Review Meeting: Processo de encerramento do sprint, é a reunião de cliente e time de desenvolvimento - Tempo de 2,5% do tempo do sprint.
+
+- Retrospective:
+
+- Daily Scrum:
+
+- Planning Meeting:
+
+- Product Backlog e Sprint Backlog:

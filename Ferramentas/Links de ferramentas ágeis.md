@@ -36,5 +36,4 @@
 
 - Retrospective: Processo entre uma sprint e outra, é a reunião de melhoria contínua, onde daqui saem ações de continuidade/melhoria. (Prime Directive) - Tempo de até 5% do tempo da sprint (versão antiga) ou Tempo de 1h e 30 min a cada 2 semanas de sprint (versão atual)
 
-
 - Product Backlog e Sprint Backlog:

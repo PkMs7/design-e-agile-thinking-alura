@@ -22,16 +22,19 @@
 
 ## Scrum - Agilidade em seu projeto
 
+- Scrum Guide: https://scrumguides.org/
+
 ### Time-Boxes
 
 - Sprint: Definição das tarefas a serem feitas nesse período - Tempo de até 1 mês.
 
-- Review Meeting: Processo de encerramento do sprint, é a reunião de cliente e time de desenvolvimento - Tempo de 2,5% do tempo do sprint.
+- Planning Meeting: 
 
-- Retrospective:
+- Daily Scrum: Diariamente faz um report "Do que fez?", "O que fará?" e "Que empedimentos está tendo?" (Desenvolvedores e Scrum Master participam)- Tempo de até 15 min (Em pé).
 
-- Daily Scrum:
+- Review Meeting: Processo de encerramento da sprint, é a reunião de cliente e time de desenvolvimento para testar as funcionalidades que estão PRONTAS(Visão uniforme da sequência de passos) - Tempo de 2,5% do tempo do sprint.
 
-- Planning Meeting:
+- Retrospective: Processo entre uma sprint e outra, é a reunião de melhoria contínua, onde daqui saem ações de continuidade/melhoria. (Prime Directive) - Tempo de até 5% do tempo da sprint (versão antiga) ou Tempo de 1h e 30 min a cada 2 semanas de sprint (versão atual)
+
 
 - Product Backlog e Sprint Backlog:

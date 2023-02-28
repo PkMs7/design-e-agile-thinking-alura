@@ -24,11 +24,11 @@
 
 - Scrum Guide: https://scrumguides.org/
 
-### Time-Boxes
+### Time-Boxes (Cerimônias)
 
 - Sprint: Definição das tarefas a serem feitas nesse período - Tempo de até 1 mês.
 
-- Planning Meeting: 
+- Planning Meeting: Definição do que vai ser entregue nessa sprint(Entrada: Product Backlog / Saída: Sprint Backlog). - Tempo de até 5% do tempo do sprint.
 
 - Daily Scrum: Diariamente faz um report "Do que fez?", "O que fará?" e "Que empedimentos está tendo?" (Desenvolvedores e Scrum Master participam)- Tempo de até 15 min (Em pé).
 
@@ -36,4 +36,26 @@
 
 - Retrospective: Processo entre uma sprint e outra, é a reunião de melhoria contínua, onde daqui saem ações de continuidade/melhoria. (Prime Directive) - Tempo de até 5% do tempo da sprint (versão antiga) ou Tempo de 1h e 30 min a cada 2 semanas de sprint (versão atual)
 
-- Product Backlog e Sprint Backlog:
+### Elementos do Scrum
+
+- Histórias do usuário: Item que agrega valor a tarefa. É uma descrição do problema a ser resolvido. - Deve possuir um "Título", "Por quê?" e "Pra quem é importante?".
+
+Ex. de História:Sala de Estar
+
+Para... receber meus amigos para degustar queijos e vinhos com conforto
+
+Eu, como... morador
+
+Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas soltas pelo chão, uma mesinha central retrátil, uma mini adega para 6 vinhos e sistema de som ambiente.
+
+- Product Backlog: Lista das histórias que se tornam um banco de gerenciamento de projetos, onde quem controla a prioridade, o que fica e o que sai é o Product Owner.
+
+- Sprint Backlog: Lista de histórias e tarefas que serão realizadas nessa sprint, onde quem controla as prioridades, o que fica e o que sai é o time como um todo.
+
+### Time Scrum (Papéis)
+
+- Product Owner: Representante do cliente com o time de desenvolvimento.
+
+- Scrum Master: Facilitador, educador do processo (Guardião das cerimônias do Scrum) e solucionador de impedimentos.
+
+- Time de desenvolvimento: São os programadores, DBAs, arquitetos, analistas, front-ends, testers, entre outros, ou seja, todos que fazem o projeto sair do papel na prática.

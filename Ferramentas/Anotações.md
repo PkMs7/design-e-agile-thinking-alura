@@ -59,3 +59,27 @@ Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas s
 - Scrum Master: Facilitador, educador do processo (Guardião das cerimônias do Scrum) e solucionador de impedimentos.
 
 - Time de desenvolvimento: São os programadores, DBAs, arquitetos, analistas, front-ends, testers, entre outros, ou seja, todos que fazem o projeto sair do papel na prática.
+
+## Ferramentas para agilidade: visão geral sobre controle de projetos e produtos
+
+### Métricas
+
+- WIP (Work in Progress): É o trabalho em andamento.
+
+- Lead Time (Tempo de Espera): É a métrica de tempo de espera entre uma tarefa e outra (você define).
+
+- CFD: É o meu trabalho acumulado. 
+
+- Burn Down: É o quanto de trabalho que eu consegui consumir.
+
+- Bolha: Diferença de WIP e Burn Down. - Quanto menor, melhor.
+
+### Ferramentas
+
+- Excel: Entendimento da sua rotina e processos que hoje rodam na sua realidade.
+
+- Trello: Ferramenta de controle de fluxos de tarefas controlados de forma simples, didática e para times pequenos.
+
+- Jira(Atalasian): Ferramenta de controle de fluxos de tarefas controlados de forma mais personalizável, densa e para times grandes.
+
+- Azure Boards(Microsoft): Ferramenta de gestão de fluxos de tarefas controladas de forma similar ao Jira, porém mais "clean", e também com as facilidades de integrações dos produtos Microsoft.

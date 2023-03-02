@@ -40,11 +40,11 @@
 
 - Histórias do usuário: Item que agrega valor a tarefa. É uma descrição do problema a ser resolvido. - Deve possuir um "Título", "Por quê?" e "Pra quem é importante?".
 
-Ex. de História:Sala de Estar
+        Ex. de História:Sala de Estar
 
-Para... receber meus amigos para degustar queijos e vinhos com conforto
+        Para... receber meus amigos para degustar queijos e vinhos com conforto
 
-Eu, como... morador
+        Eu, como... morador
 
 Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas soltas pelo chão, uma mesinha central retrátil, uma mini adega para 6 vinhos e sistema de som ambiente.
 
@@ -83,3 +83,7 @@ Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas s
 - Jira(Atalasian): Ferramenta de controle de fluxos de tarefas controlados de forma mais personalizável, densa e para times grandes.
 
 - Azure Boards(Microsoft): Ferramenta de gestão de fluxos de tarefas controladas de forma similar ao Jira, porém mais "clean", e também com as facilidades de integrações dos produtos Microsoft.
+
+## Kanban - Análises para implementação
+
+- 

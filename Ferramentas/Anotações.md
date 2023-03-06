@@ -86,4 +86,18 @@ Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas s
 
 ## Kanban - Análises para implementação
 
-- 
+-  [Material](../Ferramentas/Alura-PDF-Slides-Kanban-Analises-para-implementacao.pdf)Material da aula
+
+- Método Fligh Levels
+
+        - 5 Atividades:
+                - Visualizar situação
+                - Criar foco
+                - Estabelecer interações ágeis
+                - Medir o progresso
+                - Operacionarlizar e melhorar
+                
+        - 3 Níveis:
+                - Nível 1 - Operacional
+                - Nível 2 - Coordenação
+                - Nível 3 - Estratégico

@@ -101,3 +101,9 @@ Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas s
                 - Nível 1 - Operacional
                 - Nível 2 - Coordenação
                 - Nível 3 - Estratégico
+
+- Métricas do Kanban:
+        - Lead Time: Tempo de atendimento (Lead Time = WIP / Throughput)
+        - Cycle Time: Tempo de um ciclo (Medida de um ciclo definido, o que faz sentido para o negócio)
+        - WIP (Work In Progress): Trabalho em andamento
+        - Throughput: Tempo de vazão

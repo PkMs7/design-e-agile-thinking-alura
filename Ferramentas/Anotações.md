@@ -68,7 +68,7 @@ Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas s
 
 - Lead Time (Tempo de Espera): É a métrica de tempo de espera entre uma tarefa e outra (você define).
 
-- CFD: É o meu trabalho acumulado. 
+- CFD (Cumulative Flow Diagram): É o meu trabalho acumulado. 
 
 - Burn Down: É o quanto de trabalho que eu consegui consumir.
 

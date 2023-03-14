@@ -113,4 +113,12 @@ Quero... uma sala de estar de 20m², com carpete de madeira, grandes almofadas s
 
 ## Kanban - Entregas com métricas
 
-- 
+- Métricas do Kanban detalhadas:
+
+        - Lead Time: O Lead Time na produção é o tempo necessário para percorrer todo o ciclo de produção, desde o pedido do cliente até a entrega do produto.
+
+        - Cycle Time: Tempo de ciclo é usado normalmente para medir o tempo de uma atividade (mudança de coluna no quadro). Mas pode ser usado para medir qualquer ciclo que seja importante.
+
+        - WIP (Work In Progress): Trabalho em andamento é como chamamos TODAS as tarefas já iniciadas que ainda estão em processo de produção.
+
+        - Throughput: Vazão é a quantidade média de entregas que o time consegue fazer em um período de tempo.
